@@ -1,3 +1,6 @@
+### This code is associated with the paper from Lee et al., "Mapping person-to-person variation in viral mutations that escape polyclonal serum targeting influenza hemagglutinin". eLife, 2019. http://dx.doi.org/10.7554/eLife.49324
+
+
 # Mapping of anti-flu serum against the Perth/2009 H3 HA
 Mutational antigenic profiling of Perth/2009 H3 HA codon mutant libraries against ferret and human sera.
 
